@@ -11,7 +11,9 @@
 
 - 💬 Ask me about **React**
 
-- 📫 How to reach me **m.nimkar070@gmail.com**
+- 📫 How to reach me : 
+**m.nimkar070@gmail.com**
+**https://www.instagram.com/m_nimkar10/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
